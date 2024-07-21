@@ -36,4 +36,4 @@ This dataset contains simulated customer data that can be used for segmentation 
 
 ## 📈 Dashboard
 
-![Customer Segmentation Dashboard](https://github.com/muskaanagg20/Electric-Vehicle-Analysis-Tableau/blob/main/ElectricVehicleDashboard.PNG)
+![Customer Segmentation Dashboard](CustomerSegDashboard.PNG)
