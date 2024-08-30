@@ -1,12 +1,8 @@
 # Customer Segmentation Analysis
 
-![Overview Icon](https://img.icons8.com/fluency/48/000000/overview-pages-3.png)
-![ID Icon](https://img.icons8.com/fluency/48/000000/id-verified.png)
-![Purchase Frequency Icon](https://img.icons8.com/fluency/48/000000/shopping-cart.png)
-![Targeted Marketing Icon](https://img.icons8.com/fluency/48/000000/target.png)
-![Sales Analysis Icon](https://img.icons8.com/fluency/48/000000/sales-performance.png)
-![Income Icon](https://img.icons8.com/fluency/48/000000/money.png)
+## 📈 Dashboard
 
+![Customer Segmentation Dashboard](CustomerSegDashboard.PNG)
 
 ## 🌟 Overview:
 
@@ -34,6 +30,4 @@ This dataset contains simulated customer data that can be used for segmentation 
 - **Customer Loyalty Programs**: Design loyalty programs based on customer spending behavior and preferences.
 - **Sales Analysis**: Analyze sales patterns and predict future trends.
 
-## 📈 Dashboard
 
-![Customer Segmentation Dashboard](CustomerSegDashboard.PNG)
